@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm <a href="https://ayomideoyetimehin.netlify.app/" target="blank">
-Ayomide</a></h1>
-<h3 align="center">A passionate Full-stack developer from Nigeria 🇳🇬</h3>
+<h1 align="center">Hi, I'm <a href="https://ayomideoyetimehin.netlify.app/" target="blank">Ayomide</a></h1>
+<h3 align="center">A passionate Full-stack developer</h3>
 <br/>
 
 <img align="right" top="500" height="auto" width="300" alt="GIF" src="./avatar.webp">
@@ -47,7 +46,7 @@ Ayomide</a></h1>
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/16ftiIHx9SMdti7oEuuuCiIyKPYnLvqIQ/view?usp=drive_link" target="blank">Resume</a>
 <br/>
 <br/>
----
+
 <h3 align="left" >/connect with me/</h3>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ayomide-oyetimehin-6946411b9/) [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/just_ayomide_)
