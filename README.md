@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Full-stack developer</h3>
 <br/>
 
-<img align="right" top="500" height="auto" width="300" alt="GIF" src="./avatar.webp">
+<img align="right" top="500" height="auto" width="350" alt="GIF" src="./avatar.webp">
 
 <h3>/about me/</h3>
 
