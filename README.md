@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm <a href="https://ayomideoyetimehin.netlify.app/" target="blank">
-Ayomide</a></h1>
+<h1 align="center">Hi, I'm <a href="https://ayomideoyetimehin.netlify.app/" target="blank">Ayomide</a></h1>
 <h3 align="center">A passionate Full-stack developer</h3>
 <br/>
 
