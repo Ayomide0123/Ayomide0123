@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **oyetimehin31@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/16ftiIHx9SMdti7oEuuuCiIyKPYnLvqIQ/view?usp=drive_link" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/16ftiIHx9SMdti7oEuuuCiIyKPYnLvqIQ/view?usp=drive_link](https://drive.google.com/file/d/1-61HdoiafxTqxh5ElRe5AhJ9ZiXWcOhg/view?usp=sharing" target="blank">Resume</a>
 <br/>
 <br/>
 
