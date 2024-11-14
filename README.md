@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🎓 **Education:** I hold a BSc in Computer Science from Caleb University.
 
 - 💻 **Coding:** I have a deep love for coding and enjoy working on projects that challenge me and allow me to learn and grow.
-  - <h5>What I am good at:</h5>
+  - <h4>What I am good at:</h4>
    
     - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
       ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
