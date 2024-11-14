@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   
 - 🍿 **Movies:** I'm also a movie enthusiast. I enjoy a wide range of genres..
 
-- 🤝 I’m available for <h4>full-time roles / contract jobs / internship roles</h4>.
+- 🤝 I’m available for <strong>full-time roles / contract jobs / internship roles</strong>.
 
 - 📫 How to reach me **oyetimehin31@gmail.com**
 
