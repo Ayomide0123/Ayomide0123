@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   
   - <h4>What I am learning:</h4>
   
-    - ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+    - ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;![NextJs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 
 - 🎮 **Gaming:** When I'm not coding, you might find me immersed in video games, exploring virtual worlds and honing my strategic skills.
