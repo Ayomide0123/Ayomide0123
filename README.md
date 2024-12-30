@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, I'm <a href="https://ayomideoyetimehin.netlify.app/" target="blank">Ayomide</a></h1>
-<h3 align="center">Full-stack Developer</h3>
+<h3 align="center">Software Engineer</h3>
 <br/>
 
 <img align="right" top="500" height="auto" width="350" alt="GIF" src="./avatar.webp">
